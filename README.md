@@ -1,12 +1,8 @@
-# Expo Router Example
+# Expo Router Tailwind web Example
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Use [`expo-router`](https://expo.github.io/router) with [`tailwind`](https://tailwindcss.com) in Metro web apps.
 
-## 🚀 How to use
-
-```sh
-npx create-react-native-app -t with-router
-```
+This approach does nothing on native as native does not currently support CSS.
 
 ## 📝 Notes
 
