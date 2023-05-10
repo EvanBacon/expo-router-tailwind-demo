@@ -1,6 +1,4 @@
-import React from "react";
-
-const TeamSection = () => {
+export default function TeamSection() {
   return (
     <section className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
       <div className="text-center pb-12">
@@ -35,8 +33,7 @@ const TeamSection = () => {
       </div>
     </section>
   );
-};
-export default TeamSection;
+}
 
 function TeamMate({ img, name, role }) {
   return (
