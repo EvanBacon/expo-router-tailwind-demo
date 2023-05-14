@@ -1,6 +1,7 @@
 {
   "expo": {
     "scheme": "acme",
+    "sdkVersion": "48.0.0",
     "web": {
       "bundler": "metro"
     },
